@@ -1,5 +1,5 @@
 # this_is_a_test
-##less emphasized
-long line ---of text
+## less emphasized
+long line---of text
 
 temporary files
